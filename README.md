@@ -1,1 +1,2 @@
-# Python_Study_Notes
+# Python Study Notes
+- Will put all Python related study notes here as personal reference
